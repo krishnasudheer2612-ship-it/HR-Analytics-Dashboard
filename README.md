@@ -1,33 +1,48 @@
 # HR Analytics Dashboard
 
 ## Project Overview
-This project focuses on analyzing employee data and understanding workforce trends using Power BI.
+This project focuses on analyzing employee data using Power BI to understand workforce trends, employee performance, attendance and training.
 
 ## Tools & Technologies
 - Microsoft Power BI
 - Microsoft Excel
 - DAX
 
-## Dataset
-The project uses an Excel dataset containing employee-related information across four tables.
+## Dataset Description
+The project uses four tables containing employee-related information:
+- Employees
+- Performance
+- Attendance
+- Training
 
-## Dashboard Features
-- Employee Analysis
-- HR Performance Analysis
+## Dashboard Pages
+
+### 1. HR Overview
+- Employee Overview
+- Department Analysis
+- Attrition Analysis
+
+### 2. Performance Analysis
+- Employee Performance
 - Attendance Analysis
-- Training Analysis
+- Performance Ratings
+
+### 3. Training Analysis
+- Training Hours
+- Training Completion
+- Training Performance
 
 ## Project Objectives
-- Understand employee-related trends.
-- Analyze workforce performance.
-- Explore attendance patterns.
-- Evaluate employee training data.
+- Analyze employee data.
+- Understand workforce trends.
+- Evaluate employee performance.
+- Monitor attendance patterns.
+- Analyze training effectiveness.
 
 ## Files Included
-- Power BI Dashboard (.pbix)
-- Excel Dataset (.xlsx)
+- HR Analytics Power BI Dashboard (.pbix)
+- HR Analytics Dataset (.xlsx)
 
-## Author
-Krishna S
+## Dashboard Screenshots
+Screenshots of the dashboard pages are included in the repository.
 
-Aspiring Data Analyst
